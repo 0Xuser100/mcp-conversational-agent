@@ -40,8 +40,8 @@ This project showcases an end-to-end example of a conversational AI agent that:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
-cd <your-repo-directory>
+git clone https://github.com/0Xuser100/mcp-conversational-agent.git
+cd mcp-conversational-agent
 ```
 
 ### 2. Install Node.js (Required for MCP Servers)
